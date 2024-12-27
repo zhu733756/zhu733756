@@ -4,6 +4,7 @@
 - 📫 How to reach me:  qq1079333812@gmail.com / 1079333812@qq.com
 - ⚡ Interests and hobbies:  Technical document writing/ play e-games.
 - 😄 https://zhu733756.github.io/
+- ✍️ 公众号: 玩转云原生
 
 [![Years Badge](https://badges.pufler.dev/years/zhu733756)](https://badges.pufler.dev)
 
